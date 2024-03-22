@@ -1,5 +1,15 @@
-Proyecto de conexión con BBDD noSQL eXistDB en localhost. 
-Proyecto java con maven:
+
+
+        
+
+
+<h1>Proyecto de conexión con BBDD noSQL eXistDB en localhost. </h1>
+<ul>
+    <li>Proyecto Java con maven:</li>
+    <li>IDE Netbeans</li>         
+</ul>
+
+```xml
         <dependency>
             <groupId>org.exist-db</groupId>
             <artifactId>exist-core</artifactId>
@@ -10,4 +20,3 @@ Proyecto java con maven:
             <artifactId>xmldb-api</artifactId>
             <version>20040731</version>
         </dependency>
-IDE Netbeans
