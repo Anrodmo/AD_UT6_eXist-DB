@@ -1,8 +1,3 @@
-
-
-        
-
-
 <h1>Proyecto de conexión con BBDD noSQL eXistDB en localhost. </h1>
 <ul>
     <li>Proyecto Java con maven:</li>
